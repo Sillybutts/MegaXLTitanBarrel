@@ -1,8 +1,9 @@
 # MegaXLTitanBarrel
-A barrel that allows the Nerf Titan to fire Mega XL darts, while still keeping Titan Missile compatibility. 
 
 <img src="GHimages/MegaXL%20Titan%20Barrel%201%20white.png" width="500">
 <img src="GHimages/MegaXL%20Titan%20Barrel%202%20white.png" width="500">
+
+A barrel that allows the Nerf Titan to fire Mega XL darts, while still keeping Titan Missile compatibility. 
 
 Files are exported in print orientation. Muzzle end to the build plate. This is done to ensure the threads print nicely. 
 
