@@ -27,4 +27,5 @@ The inside of the MegaXL barrel might need to be sanded after printing to have a
 
 ## Images
 
-<img src="GHimages/" width="500">
+<img src="GHimages/MegaXL%20Titan%20Barrel%20120white.png" width="500">
+
