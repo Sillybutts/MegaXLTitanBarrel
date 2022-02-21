@@ -8,6 +8,8 @@ Files are exported in print orientation. Muzzle end to the build plate. This is 
 
 The inside of the MegaXL barrel might need to be sanded after printing to have a smoother dart fit. 
 
+There are two versions, smooth bore and Trivictus. Trivictus imparts a spin on the dart as it is fired. Smooth bore is just a smooth barrel. I personally recommend the Trivictus one.
+
 Firing Demo: https://www.youtube.com/watch?v=F2tIj5eYF1I
 
 ## Misc.
