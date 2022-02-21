@@ -5,6 +5,8 @@ Files are exported in print orientation. Muzzle end to the build plate. This is 
 
 The inside of the MegaXL barrel might need to be sanded after printing to have a smoother dart fit. 
 
+Firing Demo: https://www.youtube.com/watch?v=F2tIj5eYF1I
+
 ## Misc.
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
