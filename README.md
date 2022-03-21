@@ -32,6 +32,7 @@ Firing Demo: https://www.youtube.com/watch?v=F2tIj5eYF1I
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
 
+And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
