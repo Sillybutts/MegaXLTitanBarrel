@@ -1,5 +1,9 @@
 # MegaXLTitanBarrel
 
+# ADDED SOME NEW BARRELS! Shotgunning 3x Mega, 3x Rival, and 3x or 5x Elite/Half darts. ENJOY!!!
+
+<img src="GHimages/IMG_20220316_014053__01%20-%20Copy%20(2).jpg" width="500">
+
 <img src="GHimages/MegaXL%20Titan%20Barrel%201%20white.png" width="500">
 <img src="GHimages/MegaXL%20Titan%20Barrel%202%20white.png" width="500">
 
@@ -36,6 +40,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
+<img src="GHimages/IMG_20220316_014053__01%20-%20Copy%20(2).jpg" width="500">
 <img src="GHimages/MegaXL%20Titan%20Barrel%201%20white.png" width="500">
 <img src="GHimages/MegaXL%20Titan%20Barrel%202%20white.png" width="500">
 <img src="GHimages/Titan%20Supermaxx%20Homemade%20v170%20barrels%201.png" width="500">
